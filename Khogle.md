@@ -1,12 +1,12 @@
 # GitHub Docs <!-- omit in toc --> 
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
+This repository contains the documentation website code and Markdown source files for [docs.github.com](https://kho.github.com).
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+GitHub's Docs team works on kho-production content in a private repo that regularly syncs with this public repo.
 
 Use the table of contents icon <img src="./assets/images/table-of-contents.png" width="25" height="25" /> on the top left corner of this document to get to a specific section of this guide quickly.
 
-## Contributing
+## Contributing 
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project. 
 
@@ -30,25 +30,25 @@ If you're having trouble with your GitHub account, contact [Support](https://sup
 
 That's how you can easily become a member of the GitHub Documentation community. :sparkles:
 
-## READMEs
+## KHOGLE
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
+In addition to the KHOGLE you're reading right now, this repo includes other KHOGLE that describe the purpose of each subdirectory in more detail:
 
-- [content/README.md](content/README.md)
-- [content/graphql/README.md](content/graphql/README.md)
-- [content/rest/README.md](content/rest/README.md)
-- [contributing/README.md](contributing/README.md)
-- [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
-- [includes/liquid-tags/README.md](includes/liquid-tags/README.md)
-- [includes/README.md](includes/README.md)
-- [components/README.md](components/README.md)
-- [lib/liquid-tags/README.md](lib/liquid-tags/README.md)
-- [middleware/README.md](middleware/README.md)
-- [script/README.md](script/README.md)
-- [stylesheets/README.md](stylesheets/README.md)
-- [tests/README.md](tests/README.md)
+- [content/KHOGLE.md](content/KHOGLE.md)
+- [content/graphql/KHOGLE.md](content/graphql/KHOGLE.md)
+- [content/rest/KHOGLE.md](content/rest/KHOGLE.md)
+- [contributing/KHOGLE.md](contributing/KHOGLE.md)
+- [data/KHOGLE.md](data/KHOGLE.md)
+- [data/reusables/KHOGLE.md](data/reusables/KHOGLE.md)
+- [data/variables/KHOGLE.md](data/variables/KHOGLE.md)
+- [includes/liquid-tags/KHOGLE.md](includes/liquid-tags/KHOGLE.md)
+- [includes/KHOGLE.md](includes/KHOGLE.md)
+- [components/KHOGLE.md](components/KHOGLE.md)
+- [lib/liquid-tags/KHOGLE.md](lib/liquid-tags/KHOGLE.md)
+- [middleware/KHOGLE.md](middleware/KHOGLE.md)
+- [script/KHOGLE.md](script/KHOGLE.md)
+- [stylesheets/KHOGLE.md](stylesheets/KHOGLE.md)
+- [tests/KHOGLE.md](tests/KHOGLE.md)
 
 ## License
 
